@@ -8,7 +8,9 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+https://stackoverflow.com/a/4961467 - found out about the `layout_weight` attribute for the add button and text input 
+
+https://developer.android.com/reference/android/widget/ArrayAdapter - read about `ArrayAdapter` methods in order to get adding and deleting working
 
 ## Verbal Collaboration
 
