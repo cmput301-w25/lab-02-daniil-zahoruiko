@@ -66,7 +66,7 @@ public class MainActivity extends AppCompatActivity {
                 if(input != null) {
                     String inputString = input.toString();
                     if(!inputString.isEmpty()) {
-                        cityAdapter.add(input.toString());
+                        cityAdapter.add(inputString);
                     }
                 }
             }
